@@ -12,7 +12,7 @@ This project presents a **Customer Churn Analysis Dashboard** built using **Powe
 - [Repository Structure](#-repository-structure)
 - [How to Use](#-how-to-use)
 - [Contact](#-contact)
-
+- [LICENSE](#-license)
 ---
 
 ## 🧠 Objective
@@ -58,9 +58,10 @@ The primary objective of this dashboard is to:
 
 ## 📁 Repository Structure
 
-📦 Customer-Churn-Dashboard
-┣ 📷 customer_churn_dashboard.png
-┗ 📄 README.md
+📦 Customer-Churn-Dashboard  
+┣ 📷 customer_churn_dashboard.png  
+┣ 📄 README.md  
+┗ 📄 LICENSE  
 
 ---
 
